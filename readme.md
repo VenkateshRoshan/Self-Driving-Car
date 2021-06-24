@@ -1,4 +1,11 @@
 # Self Driving Car
+
+1. Open main.ipynb in jupyter notebook
+2. Run all the commands (***make sure the # model path is correct***)
+3. 
+
+
+
 ## 
 By using this software, the user accepts complete responsibility for each and every
 aspect of safety associated with the use of the Laser machine, Laser system and
