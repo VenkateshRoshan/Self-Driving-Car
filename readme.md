@@ -1,5 +1,5 @@
 # Self Driving Car
-## Disclaimer
+## 
 By using this software, the user accepts complete responsibility for each and every
 aspect of safety associated with the use of the Laser machine, Laser system and
 Lightburn Software.
