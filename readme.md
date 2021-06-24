@@ -6,10 +6,10 @@
 5. Model_4.h5 is works for 3 signs which are ***Stop , Turn Left ahead , Turn Right ahead ***
 7. Run all Cells (***make sure the model path is correct***)
 
-## For ***Preparing*** Model
+## To ***Prepare*** Model
 1. Open prepare_model.ipynb in jupyter notebook
 2. Run all Cells (***make sure Dataset Path is correct***)
-    ### For making dataset
+    ### To make dataset
     1. Open MakeDataset.ipynb in jupyter notebook
     2. Set Dataset Path as `/Data/Traffic Signs/Signs/30KMPH`
 
