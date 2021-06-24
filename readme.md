@@ -14,5 +14,4 @@
     2. Set Dataset Path as `/A/B/C/30KMPH`
 
 ## Outputs
-* [Car View](https://photos.google.com/photo/AF1QipPmRYLF64aUc0kxjJ-ztlPTJ-PYQgT5fe3G0JZq)
-* [Normal View]()
+* [View](https://photos.google.com/photo/AF1QipPmRYLF64aUc0kxjJ-ztlPTJ-PYQgT5fe3G0JZq)
