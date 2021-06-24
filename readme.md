@@ -12,4 +12,6 @@
 ## For ***Preparing*** Model
 1. Open prepare_model.ipynb in jupyter notebook
 2. Run all Cells (***make sure Dataset Path is correct***)
-    ### For
+    ### For making dataset
+    1. Open MakeDataset.ipynb in jupyter notebook
+    2. Set Dataset Path as `/Data/Traffic Signs/Signs/30KMPH`
