@@ -3,7 +3,7 @@
 ## To ***Start*** Car
 1. Power ***ON*** the raspberry pi
 4. Open main.ipynb in jupyter notebook
-5. Model_4.h5 works for 3 signs which are***Stop , Turn Left ahead , Turn Right ahead ***
+5. Model_4.h5 works for 3 signs which are `Stop , Turn Left ahead , Turn Right ahead`
 7. Run all Cells (***make sure the model path is correct***)
 
 ## To ***Prepare*** Model
