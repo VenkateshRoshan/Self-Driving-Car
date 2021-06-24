@@ -1,10 +1,9 @@
 # Self Driving Car
 
-1. Open main.ipynb in jupyter notebook
-2. Run all the commands (***make sure the # model path is correct***)
-3. 
-
-
+1. Power ***ON*** the raspberry pi
+4. Open main.ipynb in jupyter notebook
+5. Run all the commands (***make sure the model path is correct***)
+6. 
 
 ## 
 By using this software, the user accepts complete responsibility for each and every
