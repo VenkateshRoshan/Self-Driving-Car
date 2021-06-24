@@ -1,6 +1,6 @@
 # Self Driving Car Based On Traffic Signs
 
-## For ***Running*** Car
+## To ***Start*** Car
 1. Power ***ON*** the raspberry pi
 4. Open main.ipynb in jupyter notebook
 5. Model_4.h5 is works for 3 signs which are ***Stop , Turn Left ahead , Turn Right ahead ***
