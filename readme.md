@@ -1,4 +1,4 @@
-# Self Driving Car
+# Self Driving Car Based On Traffic Signs
 
 ## For ***Running*** Car
 1. Power ***ON*** the raspberry pi
@@ -14,4 +14,5 @@
     2. Set Dataset Path as `/Data/Traffic Signs/Signs/30KMPH`
 
 ## Outputs
-[Click Here](https://photos.google.com/photo/AF1QipPmRYLF64aUc0kxjJ-ztlPTJ-PYQgT5fe3G0JZq)
+* [Car View](https://photos.google.com/photo/AF1QipPmRYLF64aUc0kxjJ-ztlPTJ-PYQgT5fe3G0JZq)
+* [Normal View]()
