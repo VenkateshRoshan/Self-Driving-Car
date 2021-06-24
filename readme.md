@@ -1,8 +1,5 @@
 # Self Driving Car
 
-### 'I' for Input , 'O' for Ouput and 'E' for Enable according to GPIO Board Mode
-
-
 ## For ***Running*** Car
 1. Power ***ON*** the raspberry pi
 4. Open main.ipynb in jupyter notebook
@@ -15,3 +12,6 @@
     ### For making dataset
     1. Open MakeDataset.ipynb in jupyter notebook
     2. Set Dataset Path as `/Data/Traffic Signs/Signs/30KMPH`
+
+## Outputs
+[Click Here](https://photos.google.com/photo/AF1QipPmRYLF64aUc0kxjJ-ztlPTJ-PYQgT5fe3G0JZq)
