@@ -11,7 +11,7 @@
 2. Run all Cells (***make sure Dataset Path is correct***)
     ### To make dataset
     1. Open MakeDataset.ipynb in jupyter notebook
-    2. Set Dataset Path as `/Data/Traffic Signs/Signs/30KMPH`
+    2. Set Dataset Path as `/Data/Traffic Signals/Signals/30KMPH`
 
 ## Outputs
 * [Car View](https://photos.google.com/photo/AF1QipPmRYLF64aUc0kxjJ-ztlPTJ-PYQgT5fe3G0JZq)
