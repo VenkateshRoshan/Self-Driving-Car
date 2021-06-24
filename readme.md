@@ -14,4 +14,4 @@
     2. Set Dataset Path as `/A/B/C/30KMPH`
 
 ## Outputs
-* [View](https://kapwi.ng/c/vnNw928t)
+* [View]()
